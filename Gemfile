@@ -26,4 +26,6 @@ group :jekyll_plugins do
   gem "jekyll-sitemap"
   gem "jekyll-gist"
   gem "jemoji"
+  gem "mini_magick"
+  gem "jekyll-picture-tag"
 end

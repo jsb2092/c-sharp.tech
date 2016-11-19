@@ -1,0 +1,76 @@
+==================================================================
+https://keybase.io/jbrown
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://c-sharp.tech
+  * I am jbrown (https://keybase.io/jbrown) on keybase.
+  * I have a public key with fingerprint E3E0 EEC5 FB5E 52FA E589  C211 0C28 835A 0448 CA95
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "0101c2c8cf11728080cb1a2fd67dae4fb9ac893358df88968461881897eeb609dcc20a",
+            "fingerprint": "e3e0eec5fb5e52fae589c2110c28835a0448ca95",
+            "host": "keybase.io",
+            "key_id": "0c28835a0448ca95",
+            "kid": "0101c2c8cf11728080cb1a2fd67dae4fb9ac893358df88968461881897eeb609dcc20a",
+            "uid": "ff11d5ca1d53738291dd99ff7e4b9600",
+            "username": "jbrown"
+        },
+        "revoke": {
+            "sig_ids": [
+                "0f7f9e26b264c63976690ff372e69cc417787d414bcd8af97c54dcf923162bd30f"
+            ]
+        },
+        "service": {
+            "hostname": "c-sharp.tech",
+            "protocol": "https:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1479579117,
+    "expire_in": 157680000,
+    "prev": "6a679e5d10d79a21264df5645e951d2fe596ce3cbd26ff5669e5d63d2930657e",
+    "seqno": 36,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.58
+Comment: https://keybase.io/crypto
+
+yMJvAnicrZJLaF1FGMdv0ial0Ssi6KLio7PxlaYz5zGPa4wPskiooJtI2jS9njPz
+zb0nac+5OefcG/PSVX0QLdKiSIrVRUWSVgy1NFShSUqgi9pgwJSm0IVFEEmCKEXF
++poT68qts5hhZv7f7/t/38xCflOuqa4nevdBmDmwu+7i/E/VXDd+Z30E+ZEaQoUR
+1A8bC+xXkKTF/kChAsIEE2lJLjUhzOKYY+kTz9KKMuWBo33hSS5s2+VKcy4odyjh
+nHDBAHyKhZLSwh5qRjoISxBX4iBMDRZswADS1b4LrqU9cLmQFiFYWpzbrocdh0tP
+uCawHCVZhDHnewm0BJE5M5viP/b+q/+ffVc3cNpglCs9M9nM5pYgSgmhNQPHFxTj
+TJhAHHoHwKj7/DgaDNFYM4qhFvVD1tUkKBnLCSr0IKyZFmBR36KOpLZglAqstc0s
+oEJKhzDGmXKI40vFPS2YdB0ltbBsQi1f2VijXsM2+WqB3IBnPbqVW+5Iyl5caUlB
+lo2rShylkYz2m5tymlaSQuYqHapk0kHwi7cgRT8IlXkhE1GDOAmiEBWIUco0yKjE
+YcJlwrSyGcFLlSCGYpApXEY5NiPLAzWDpB5lAlxFsGLCs4ipUGmXOi4IlyhLgyuo
+BFv6yqLaXNBMTG1lCRtTlwHKyhoII1SwqfHplQzTdC700moMaOz83N7NubqmXGND
+ffZ1c01b7/z3Qx/8bstf1VdPDc9Odea3xFP5tpdH4ZebX3buuX9hUcw/8G374sAd
+S4fueap9onuht6u7Y+6zo++109HVy9aFk5I/+ntp8kZz5ckj8w9dO/N2y6dry+h0
+cffYpVWycu3r75dm0Yn2bz5fPHb28fe/WuaTM7lTf76w9MPdsxfWTrZNPDHwxcdt
+t7fOT7/21m25X+vz+4Zqz21TO1+pHn3x9PkPWsP14Tefvv7IyM7ei3t+3oH8uY+6
+Xl8den7loBxv2963/fpdz5z57Y3jjb4zOby09tjUkeONVxrgUke5tScfXB2ZObxr
++ZNz58Yf7rt5X0dn3Q3v2IdhfVf+jx833zt+eHrf9PrgRMOhZ0c3VS+Xdq38DSR4
+XHU=
+=u1J4
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/jbrown
+
+==================================================================
+
