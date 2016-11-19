@@ -7,7 +7,7 @@ tags:
   - editor
   - c#
   - cross platform
-date: 2016-11-17T15:45:00-04:00
+date: 2016-11-19T13:45:00-04:00
 ---
 
 Many moons ago, Vi was created.  Many years after, Vim was created.  Vi/Vim was (and on many systems still is) my go to editor.  It is installed on pretty much every system ever; if there is a terminal, then there is Vi.  It is highly configurable, and config files could be easily copied to other machines and they would just work.  Let's not forget about Vi keybindings - a lifetime to learn, impossible to forget.
@@ -26,6 +26,8 @@ While Code wasn't what I expected when it was first released, the support for cr
 
 Fourth on my list of reasons is the support for other language.  I do love [Visual Studio](https://www.visualstudio.com/) and [PyCharm](https://www.jetbrains.com/pycharm/) for developing complex systems in C# and Python, respectively, but neither of those platforms handle the myriad of languages I use on a daily basis, from HTML, Markdown, Ruby, Python, C#, Java, Javascript, C++, Latex, and more.  The fact that there is support for most of these languages, and many of them have a debugger means that if I want to write a simple program, whether it be for class, or some code I want to post to github, this is a fast, easy to use editor.
 
-Since I'm not intending this to be a top-ten list, I figured I should tell you some of the things I am not impressed with.  The first is a pro and a con - the settings.  It is so configurable that you can make the editor pretty much anything you want.  The downside to this is that trying to figure out how to change, what many editors would consider simple, settings, is sometimes frustrating.   
+Since I'm not intending this to be a top-ten list, I figured I should tell you some of the things I am not impressed with.  The first is a pro and a con - the settings.  It is so configurable that you can make the editor pretty much anything you want.  The downside to this is that trying to figure out how to change, what many editors would consider simple, settings, is sometimes frustrating, this has improved greatly in the last year, as the default settings are much better documented than they used to be, but 
 
-The second thing that drives me a bit batty is the git integration.  It should work flawlessly, and in many cases, it does.
+The second thing that drives me a bit batty is the git integration.  It should work flawlessly, and in many cases, it does; but for reasons that I am yet unable to explain, sometimes it just doesn't.  I'm not an expert in git by any stretch, but the fact that git isn't built into the explorer may help my cause (Visual Studio proper does this better).  I also have issues sometimes with the git commands failing one time, but working the next time, and while it's hard to blame the editor, I have never had this happen with normal command line git.
+
+Finally (at least until there is an update), is that I have compared this to many other editors, including [atom](http://atom.io) and [Sublime](http://sublimetext.com) and while both are very nice, they have pretty significant flaws in my book, the former being riddled with bugs, the later having a very hefty price tag for an editor.  The only thing I would like in Code would be a minimap.  That seems to be 'in the works' but as of yet, I haven't been able to find it.
